@@ -6,3 +6,4 @@ This contains:
 * **LU Factorization (With Partial Pivoting):** This is a funtion to perform LU pactorization on a ceofficent matrix.
 * **Root Finding Algorithm:** This algorithm finds the angle of force needed to overcome the static friction of a pre-defined box
 * **Simple Electric Circuit:** Based off an equation for q(t) this algorithm creates two graphs.
+* **Simpson1/3 Algorithm:** This algorithm takes two arrays which corrilate to the x and y values of a funtion, then inputs them into the composite simpson 1/3 function to calculate the aproximate integral
