@@ -1,2 +1,2 @@
 # LU Factorization 
-# *With Partial Pivoting*
+## *With Partial Pivoting*
