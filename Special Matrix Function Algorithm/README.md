@@ -2,6 +2,7 @@
 This algorythm is a function that takes in n and m 
 * n = rows
 * m = collums
+
 It then uses those values to return an nxm matrix in which:
 * The value of each element in the first row is the number of the column.
 * The value of each element in the first column is the number of the row.
